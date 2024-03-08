@@ -1,14 +1,12 @@
+# Minor update before printing (Mar 2024)
+
+The third version of the draft of the book is online now. It is supposed to be the final version before printing. 
+
+Compared to the second version, the third version is improved in the sense that some minor typos have been corrected. Here, I would like to thank the readers who sent me their feedback. 
+
 # 1000+ stars (Sep 2023)
 
 The book received 1000+ stars! Thank everybody!
-
-# Major update (Aug 2023)
-
-**The second version of the draft of the book is online now!!**
-
-Compared to the first version, which was online one year ago, the second version has been improved in various ways. For example, we replotted most of the figures, reorganized some contents to make them clearer, corrected some typos, and added Chapter 10, which was not included in the first version. 
-
-I put the first draft of this book online in August 2022. Up to now, I have received valuable feedback from many readers worldwide. I want to express my gratitude to these readers.
 
 # Why a new book on reinforcement learning?
 
@@ -65,24 +63,28 @@ I sincerely hope this book can help readers smoothly enter the exciting field of
 
 # Third-party code and materials
 
-Some enthusiastic readers sent me the source code and notes that they developed when they studied this book. I would like to share the links here and hope it may be helpful to other readers. I must emphasize that I have not verified the code. If you have any questions, you can directly contact the developers. 
+Some enthusiastic readers sent me the source code or notes that they developed when they studied this book. I would like to share the links here and hope it may be helpful to other readers. I must emphasize that I have not verified the code. If you have any questions, you can directly contact the developers. 
 
-Language: R
+**Code:**
+
+https://github.com/jwk1rose/RL_Learning
+Language: Python
 
 https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning
+Language: R
 
-Notes:
+**Notes:**
 
 https://lyk-love.cn/tags/reinforcement-learning/ 
 by Yukuan Lu, a student from UC Davis
 
 # Update history 
 
-(Aug 2023)
+(Aug 2023) Major update
 
-The second version of the draft of the book is online now!
+**The second version of the draft of the book is online now!!**
 
-Compared to the first version, which was online one year ago, the second version has been improved in various ways. For example, we corrected some typos, reorganized some contents to make them clearer, and added Chapter 10, which was not included in the first version. 
+Compared to the first version, which was online one year ago, the second version has been improved in various ways. For example, we replotted most of the figures, reorganized some contents to make them clearer, corrected some typos, and added Chapter 10, which was not included in the first version. 
 
 I put the first draft of this book online in August 2022. Up to now, I have received valuable feedback from many readers worldwide. I want to express my gratitude to these readers.
 
